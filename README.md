@@ -1,3 +1,2 @@
-# statistical-arbitrage
 ## Quantitative Analysis of Statistical Arbitrage: A Cryptocurrency Pairs Trading Strategy
-### Author: Shao-Yu (Victor) Hsu
+### Shao-Yu (Victor) Hsu - April 2022
